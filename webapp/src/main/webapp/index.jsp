@@ -6,6 +6,8 @@
 
 <h1> also pushed it to nexus</h1>
 
+<h1> I also automated this process for every 2 minutes and also version updates in nexus </h1>
+
 <h1> Tomorrow I will do one more project </h1>
 
 
