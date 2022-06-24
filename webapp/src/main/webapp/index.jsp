@@ -1,12 +1,12 @@
-<h1> Hello All, Welcome to Harsha Trainings !!! </h1>
+<h1> Hello satya bro I did this !!! </h1>
 
-<h1> Now devops job market is good.. all the best </h1>
+<h1> This is my first project </h1>
 
-<h1> All the best.................... </h1>
+<h1> i got a code a built using jenkins and deployed it on tomcat apache </h1>
 
-<h1> We will be having 3rd project which is Kubernetes Project.................... </h1>
+<h1> also pushed it to nexus</h1>
 
-<h1> Tomorrow we will be having Python Basic Scripting Session.................... </h1>
+<h1> Tomorrow I will do one more project </h1>
 
 
 
